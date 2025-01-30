@@ -1,3 +1,5 @@
+<h1 align="center">Hi!! 👋 I'm Miguel ʕ•́ᴥ•̀ʔっ </h1>
+
 <p align="center">
   A passionate developer and Computer Science Analyst student from Chile. 🚀  
 </p>
