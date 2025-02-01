@@ -27,7 +27,7 @@
 
 Here are some of my featured projects:  
 
-🔹 **🔐 Enigma Machine Simulator** – A cryptographic simulator inspired by the WWII Enigma machine.  
+🔹 **🔐 [Enigma Machine Simulator](https://github.com/EsFiaRn0/Enigma-Machine)** – A cryptographic simulator inspired by the WWII Enigma machine.  
 
 💡 *Check out more projects on my [GitHub profile](https://github.com/EsFiaRn0)!*  
 
