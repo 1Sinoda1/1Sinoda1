@@ -27,7 +27,15 @@
 
 Here are some of my featured projects:  
 
-🔹 **🔐 [Enigma Machine Simulator](https://github.com/EsFiaRn0/Enigma-Machine)** – A cryptographic simulator inspired by the WWII Enigma machine.  
+---  
+
+🔹 **🔐 [Enigma Machine Simulator](https://github.com/EsFiaRn0/Enigma-Machine)** – A cryptographic simulator inspired by the WWII Enigma machine.   
+
+🖥️ *Backend:* ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)  
+🎨 *Frontend:* ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+📂 *Data Format:* ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)  
+
+---  
 
 💡 *Check out more projects on my [GitHub profile](https://github.com/EsFiaRn0)!*  
 
